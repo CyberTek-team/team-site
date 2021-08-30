@@ -231,3 +231,13 @@ h2 {
     margin-right: 15px;
     font-size: 20px;
 }
+
+
+/* Media */
+
+@media(max-width: 380px) {
+    .page__links: {
+        border-radius: 0;
+        font-size: 1em;
+    }
+}
