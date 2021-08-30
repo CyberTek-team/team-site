@@ -234,10 +234,3 @@ h2 {
 
 
 /* Media */
-
-@media(max-width: 380px) {
-    .page__links: {
-        border-radius: 0;
-        font-size: 1em;
-    }
-}
